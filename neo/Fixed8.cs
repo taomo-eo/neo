@@ -1,4 +1,6 @@
-﻿using Neo.IO;
+# adfljsfk
+
+using Neo.IO;
 using System;
 using System.Globalization;
 using System.IO;
